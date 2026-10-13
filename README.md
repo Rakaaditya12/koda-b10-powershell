@@ -13,7 +13,7 @@ cd Music
 ```
 
 ```
-Membuat 10  file dengan format mp3 dengan menggunakan command ni
+Membuat 10 file dengan format mp3 menggunakan command "ni"
 
 ni "Bernadya - Apa Mungkin.mp3"
 ni "Jikustik - Puisi.mp3"
