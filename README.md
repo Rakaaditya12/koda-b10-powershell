@@ -1,13 +1,20 @@
 - MINITASK 1
 
 ```
-# make a Music folder
+Membuat folder baru bernama "Music"
+
 mkdir Music
+```
+
+```
+Berpindah ke bagian folder Music yang telah dibuat
+
 cd Music
 ```
 
 ```
-# Create file mp3 music.
+Membuat 10  file dengan format mp3 dengan menggunakan command ni
+
 ni "Bernadya - Apa Mungkin.mp3"
 ni "Jikustik - Puisi.mp3"
 ni " Misellia - Akhir Tak Bahagia.mp3"
